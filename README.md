@@ -5,7 +5,7 @@
 🔭 Hey, this is LeelaSai! I'm currently pursuing my BTech in CSE at GMR Institute of Technology, Rajam.<br>👯 I’m currently working on or learning **AWS Clouds, web development,** and **DSA**.<br>🤝 I’m passionate about contributing to **OpenSource**.<br>🌱 How to reach me - simhadrileelasai2004@gmail.com .<br> 🌐 Visit my portfolio: [Coming soon]
 ## 🌐 Socials:
 Connect with me! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sivachaitanya-m/](https://www.linkedin.com/in/leela-sai-simhadri-7b14b4231/))   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leela-sai-simhadri-7b14b4231/)
 ## 💻 Tech Stack:
 ## Languages :
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
