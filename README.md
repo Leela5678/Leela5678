@@ -1,4 +1,4 @@
-# Leela Sai_Simhadri
+# Leela Sai Simhadri
 
 
 # 💫 About Me:
